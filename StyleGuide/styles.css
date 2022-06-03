@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+
+.grid1 {
+    display: grid;
+    justify-items: center;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-column-gap: 20px;
+    background-color: bisque;
+ }
+    
+.primærfarve1{
+    background-color: #ffffff;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.primærfarve2{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.primærfarve3{
+    background-color: #6b6d62;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.primærfarve4{
+    background-color: #b8af9d;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.primærfarve5{
+    background-color: #cacacb;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
